@@ -25,8 +25,8 @@ body {
     border: 10px solid white;
     box-shadow: #C8C8C8;
     border-radius: 2%;
-    height: 40vw;
-    width:40vw;
+    height: 35vw;
+    width:35vw;
   /*   grid-template-columns: repeat(16, 1fr);
     grid-template-rows: repeat(16, 1fr); */
     grid-column-gap: 0px;
